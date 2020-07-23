@@ -1,0 +1,42 @@
+@import url('https://fonts.cdnfonts.com/css/nilland');
+
+body * , * {
+    font-family: 'Nilland', sans-serif;
+}
+
+.navbar-nav
+{
+    margin-left: auto; 
+}
+.bg-blue{
+    background-color: cornflowerblue;
+}
+.text-light{
+    color: white;
+}
+
+.nav-item {
+    margin: auto 5px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: bold;
+    font-family: 'Nilland-Black', sans-serif !important;
+}
+
+.nav-item:hover {
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: rgba(0,0,0,0.1);
+}
+
+nav.navbar {
+    padding: 10px 0 ;
+}
+
+.logo {
+    margin: 0;
+    font-family: 'Nilland-Black', sans-serif;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+}
