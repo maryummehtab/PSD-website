@@ -40,3 +40,40 @@ nav.navbar {
     font-weight: bolder;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
 }
+.icon{
+    font-size:48px;
+    color:white;
+    border-radius: 50%;
+
+}
+.padding{
+    padding: 20px;
+}
+.border{
+ border:10px white solid !important;
+}
+
+.non-round-br {
+    border-radius: 50% 50% 0 50%;
+    width: fit-content;
+}
+
+.features h1,
+.features h2,
+.features p {
+    margin: 0;
+}
+
+.features > div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.margin{
+    margin-top: 20px;;
+}
+.calender-icon{
+    font-size:48px;
+    color: cornflowerblue;
+    background-color: white;
+    
+}
