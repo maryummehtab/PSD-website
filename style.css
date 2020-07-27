@@ -77,3 +77,60 @@ nav.navbar {
     background-color: white;
     
 }
+.profile-icon{
+    font-size:40px;
+    color: cornflowerblue;
+    background-color: white;
+}
+.rss-icon{
+    color: #FFCC00;
+}
+.twitter-icon{
+    color: #33CCFF;
+}
+.fb-icon{
+    color: #6666CC;
+}
+.delicious-icon{
+    color: #33CCCC;
+}
+.vimeo-icon{
+    color: #3333FF;
+}
+.dribbble-icon{
+    color: #FF3399;
+}
+
+.social-icons {
+    font-size:40px;
+    padding:5px;
+    float: right;
+}
+mark { 
+    background-color: yellow;
+    color: black;
+  }
+.link{
+    margin :0;
+    padding: 0;
+    display: inline-block;
+}
+.box{
+    margin :0;
+    padding: 0;
+    display:inline-block;
+    width: 2%;
+    height: 1vh;
+    background-image: linear-gradient(to top left, cornflowerblue 50%, white 50%);
+}
+.re-padding{
+    margin:0;
+    padding: 0;
+}
+.carousel-inner {
+    width: 70%;
+    margin: auto;
+  }
+  .carousel-control-prev-icon{
+    color: gray;
+  }
