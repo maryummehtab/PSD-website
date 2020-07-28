@@ -134,3 +134,9 @@ mark {
   .carousel-control-prev-icon{
     color: gray;
   }
+  .shadow{
+    box-shadow: 10px 10px 5px grey;
+  }
+  .color{
+      color:gray;
+  }
