@@ -140,3 +140,24 @@ mark {
   .color{
       color:gray;
   }
+ .header {
+    background-image: url('backgroud.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  .size{
+      height: 40px;
+      width: 90px;
+  }
+  button{
+      border: #cfe6ff 1px;
+    background-image: linear-gradient(   #d3e8ff, #cbe5ff ,#c7e3ff  );
+  }
+  button:hover {
+    background-image: linear-gradient(  #a6d9ff ,#9ad6ff,#8dd4ff );
+    }
+  .margin-top{
+        margin-top: 10px;
+ }
+    
